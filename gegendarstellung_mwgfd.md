@@ -31,11 +31,39 @@ positiver Tests meines Verständnis nach immer deutlich über 1,4 %
 liegen.
 
 Dem SPIEGEL berichtete\[3\] Peter Bauer, der Chef eines Testlabors, Ende
-August: „Wir hatten also bei inzwischen gut 20.000 hausinternen Tests
+August: „Wir hatten \[…\] bei inzwischen gut 20.000 hausinternen Tests
 keinen einzigen falsch positiven.“
+
+### Masken tragen
+
+In dem Schreiben steht, dass Mund-Nase-Bedeckungen („Alltagsmasken“)
+„völlig ineffektiv“ wären. Ein Beleg für diese Behauptungen wird
+nicht angegeben, und ich kann auch keine vertrauenswürdige Quelle
+finden, die die Ineffektivität von Masken belegt. 
+
+Angeblich empfiehlt auch die Weltgesundheitsorganisation nicht das
+Tragen von „Alltagsmasken“. Diese Behauptung ist zumindest eine stark
+verkürzte Darstellung der Fragen-und-Antworten-Seite\[4\] der WHO zu
+*Masken und COVID-19*. Dort heißt es zu Alltagsmasken:
+
+„WHO does not recommend their widespread use among the public for
+control of COVID-19. However, for areas of widespread transmission, with
+limited capacity for implementing control measures and especially in
+settings where physical distancing of at least 1 metre is not possible –
+such as on public transport, in shops or in other confined or crowded
+environments – WHO advises governments to encourage the general public
+to use non-medical fabric masks.“
+
+Möglicherweise bezieht sich das auf Empfehlungen aus dem Frühjahr,
+medizinische Masken nur für die gefährdetsten Personen zu verwenden, da
+zu diesem Zeitpunkt\[5\] eine Knappheit an FFP2/FFP3-Masken herrschte.
 
 1.  https://j.mp/2ER5Eml
 
 2.  https://j.mp/3lBYkeX
 
 3.  https://j.mp/3gKgEiB
+
+4.  https://j.mp/3bdvexK
+
+5.  https://j.mp/32M4pwK
