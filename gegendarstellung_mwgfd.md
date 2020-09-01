@@ -34,7 +34,7 @@ Dem SPIEGEL berichtete\[3\] Peter Bauer, der Chef eines Testlabors, Ende
 August: „Wir hatten \[…\] bei inzwischen gut 20.000 hausinternen Tests
 keinen einzigen falsch positiven.“
 
-### Masken tragen
+### Ineffiziente Masken
 
 In dem Schreiben steht, dass Mund-Nase-Bedeckungen („Alltagsmasken“)
 „völlig ineffektiv“ wären. Ein Beleg für diese Behauptungen wird
@@ -54,9 +54,47 @@ such as on public transport, in shops or in other confined or crowded
 environments – WHO advises governments to encourage the general public
 to use non-medical fabric masks.“
 
+Die Deutsche Gesellschaft für Pneumologie resümiert in einer
+Meta-Studie\[5\] zum Thema:
+
+„Nicht-medizinische, aus Stoffen hergestellte Masken, haben einen
+Fremdschutzeffekt. Ein Selbstschutzeffekt ist wahrscheinlich, in
+klinischen Studien jedoch noch nicht belegt.“
+
 Möglicherweise bezieht sich das auf Empfehlungen aus dem Frühjahr,
 medizinische Masken nur für die gefährdetsten Personen zu verwenden, da
-zu diesem Zeitpunkt\[5\] eine Knappheit an FFP2/FFP3-Masken herrschte.
+zu diesem Zeitpunkt\[6\] eine Knappheit an FFP2/FFP3-Masken herrschte.
+
+### CO<sub>2</sub>-Rückatmung
+
+Die AutorInnen des Aushangs behaupten: „Jeder von uns kennt
+Schilderungen von Benommenheit, Schwindel, Müdigkeitsgefühlen, Atemnot,
+bis hin zum Kreislaufkollaps.“ Ich selbst kenne keine solche Schilderung
+von Personen, die mir direkt bekannt sind – und viele meiner Kollegen
+arbeiten regelmäßig über lange Zeiträume mit Masken. Aber selbst wenn es
+anekdotische Fälle gibt, in denen eine Person mit Mund-Nase-Bedeckung
+Atemnot oder gar Kreislaufkollaps erleidet, bliebe zu belegen, dass so
+etwas statistisch signifikant häufig vorkommt und – über den
+Placeboeffekt hinaus – durch die Masken verursacht wird.
+
+Eine Studie, die das zeigt, wird in dem Schreiben nicht angegeben;
+meines Wissens nach gibt es auch keine Studie, die solche Auswirkungen
+belegt. Es gibt eine Doktorarbeit\[7\] am Klinikum rechts der Isar, die
+sich 2005 mit der „Rückatmung von Kohlendioxid bei Verwendung von
+Operationsmasken als hygienische\[m\] Mundschutz an medizinischem
+Fachpersonal“ beschäftigte. Diese Studie kommt – für „zwei
+handelsübliche OP-Masken“, keine Alltagsmasken – zu dem Ergebnis, dass
+es zu einem „Anstieg des Partialdruckes für Kohlendioxid im Blut der
+Probanden“ kommt. „Eine kompensatorische Erhöhung der Atemfrequenz oder
+ein Abfall der Sauerstoffsättigung wurde dabei nicht nachgewiesen“, so
+die Studie weiter. 
+
+Seitdem wurde die DIN/EN-Norm 149 für Atemschutzmasken geändert, die
+u.a. Grenzen für den Ein- und Ausatemwiderstand setzt. Für Alltagsmasken
+gibt es meines Wissens nach keine vergleichbare Studie. Mir ist kein
+Grund bekannt, warum einfache Stoffmasken die Atmung stärker behindern
+sollten als OP-Masken; dass man gefährliche Mengen CO<sub>2</sub>
+einatmet, wenn man eine Stoffmaske trägt, belegt der Aushang nicht.
 
 1.  https://j.mp/2ER5Eml
 
@@ -66,4 +104,8 @@ zu diesem Zeitpunkt\[5\] eine Knappheit an FFP2/FFP3-Masken herrschte.
 
 4.  https://j.mp/3bdvexK
 
-5.  https://j.mp/32M4pwK
+5.  https://j.mp/2YSZLMq
+
+6.  https://j.mp/32M4pwK
+
+7.  https://j.mp/2GggR0h
