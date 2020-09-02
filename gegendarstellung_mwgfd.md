@@ -11,23 +11,23 @@ nehmen.
 ### Kaum echte Fälle
 
 In dem Aushang heißt es, es würden „so gut wie keine echten
-COVID-19-Neuinfektionen im Bundesgebiet mehr nachgewiesen“. Die Autoren
-behaupten, die verbliebenen Infektionen könnten durch falsch-positive
-Test erklärt werden. Sie verweisen dazu (ohne freilich die Quelle
-anzugeben) auf eine Studie\[1\] der Charité vom April, aus der eine
-Spezifität der PCR-Teste von nur rund 2 % hervorzugehen scheint. Die
-Studie selbst stellt die kritische Frage, „ob diese falsch positiven
-Ergebnisse auf ein Spezifitätsproblem der angewendeten Teste oder auf
-eine Verschleppung von SARS-CoV-2 bei der Testdurchführung bzw. auf
-Verwechselungen mit anderen Proben in diesem Ringversuch in den
+COVID‑19-Neuinfektionen im Bundesgebiet mehr nachgewiesen“. Die
+Autoren behaupten, die verbliebenen Infektionen könnten durch
+falsch-positive Tests erklärt werden. Sie verweisen dazu (ohne freilich
+die Quelle anzugeben) auf eine Studie\[1\] der Charité vom April, aus
+der eine Spezifität der PCR-Teste von nur rund 2 % hervor zu gehen
+scheint. Die Studie selbst stellt die kritische Frage, „ob diese falsch
+positiven Ergebnisse auf ein Spezifitätsproblem der angewendeten Teste
+oder auf eine Verschleppung von SARS‑CoV‑2 bei der Testdurchführung bzw.
+auf Verwechselungen mit anderen Proben in diesem Ringversuch in den
 betreffenden Laboren zurückzuführen“ seien. 
 
 Dass diese Zahlen so nicht stimmen können, geht aus der Statistik des
-RKI\[2\] hervor: Für die KW 27–29 war (in Deutschland) der *gesamte*
+RKI\[2\] hervor: Für die KW 27‑29 war (in Deutschland) der *gesamte*
 Anteil positiver Teste – also die Summe aus falsch-positiven und korrekt
-positiven Tests gemessen an der Zahl aller Tests – bei 0,6 %. Wären die
-1,4 %, die in dem Schreiben behauptet werden, korrekt, müsste der Anteil
-positiver Tests meines Verständnis nach immer deutlich über 1,4 %
+positiven Teste gemessen an der Zahl aller Teste – bei 0,6 %. Wären die
+1,4 %, die in dem Aushang behauptet werden, korrekt, müsste der Anteil
+positiver Teste meines Verständnis nach immer deutlich über 1,4 %
 liegen.
 
 Dem SPIEGEL berichtete\[3\] Peter Bauer, der Chef eines Testlabors, Ende
@@ -36,20 +36,20 @@ keinen einzigen falsch positiven.“
 
 ### Ineffiziente Masken
 
-In dem Schreiben steht, dass Mund-Nase-Bedeckungen („Alltagsmasken“)
-„völlig ineffektiv“ wären. Ein Beleg für diese Behauptungen wird
-nicht angegeben, und ich kann auch keine vertrauenswürdige Quelle
-finden, die die Ineffektivität von Masken belegt. 
+Dem Schreiben zufolge sind Mund-Nase-Bedeckungen („Alltagsmasken“)
+„völlig ineffektiv“. Ein Beleg für diese Behauptungen wird nicht
+angegeben, und ich kann auch keine vertrauenswürdige Quelle finden, die
+die Ineffektivität der Masken belegt. 
 
 Angeblich empfiehlt auch die Weltgesundheitsorganisation nicht das
 Tragen von „Alltagsmasken“. Diese Behauptung ist zumindest eine stark
 verkürzte Darstellung der Fragen-und-Antworten-Seite\[4\] der WHO zu
-*Masken und COVID-19*. Dort heißt es zu Alltagsmasken:
+*Masken und COVID‑19*. Dort heißt es zu Alltagsmasken:
 
 „WHO does not recommend their widespread use among the public for
-control of COVID-19. However, for areas of widespread transmission, with
+control of COVID‑19. However, for areas of widespread transmission, with
 limited capacity for implementing control measures and especially in
-settings where physical distancing of at least 1 metre is not possible –
+settings where physical distancing of at least 1 metre is not possible –
 such as on public transport, in shops or in other confined or crowded
 environments – WHO advises governments to encourage the general public
 to use non-medical fabric masks.“
@@ -90,22 +90,30 @@ ein Abfall der Sauerstoffsättigung wurde dabei nicht nachgewiesen“, so
 die Studie weiter. 
 
 Seitdem wurde die DIN/EN-Norm 149 für Atemschutzmasken geändert, die
-u.a. Grenzen für den Ein- und Ausatemwiderstand setzt. Für Alltagsmasken
-gibt es meines Wissens nach keine vergleichbare Studie. Mir ist kein
-Grund bekannt, warum einfache Stoffmasken die Atmung stärker behindern
-sollten als OP-Masken; dass man gefährliche Mengen CO<sub>2</sub>
-einatmet, wenn man eine Stoffmaske trägt, belegt der Aushang nicht.
+u. a. Grenzen für den Ein- und Ausatemwiderstand setzt. Für
+Alltagsmasken gibt es meines Wissens nach keine vergleichbare Studie.
+Mir ist kein Grund bekannt, warum einfache Stoffmasken die Atmung
+stärker behindern sollten als OP‑Masken; dass man gefährliche Mengen
+CO<sub>2</sub> einatmet, wenn man eine Stoffmaske trägt, belegt der
+Aushang nicht.
 
-1.  https://j.mp/2ER5Eml
+1.  INSTAND: „Kommentar zum Ringversuch Virusgenom-Nachweis –
+    SARS‑CoV‑2“, https://j.mp/2ER5Eml
 
-2.  https://j.mp/3lBYkeX
+2.  RKI: „COVID-19 Daily Situation Report, Tab. 5“, https://j.mp/3lBYkeX
 
-3.  https://j.mp/3gKgEiB
+3.  SPIEGEL ONLINE: „Stagnierende Todeszahlen trotz steigender
+    Infektionen“, https://j.mp/3gKgEiB
 
-4.  https://j.mp/3bdvexK
+4.  WHO: „Q\&A: Masks and COVID‑19“, https://j.mp/3bdvexK
 
-5.  https://j.mp/2YSZLMq
+5.  Pneumologie.de: „Stellungnahme der DGP zur Auswirkung von
+    Mund-Nasenmasken auf den Eigen- und Fremdschutz“,
+    https://j.mp/2YSZLMq
 
-6.  https://j.mp/32M4pwK
+6.  DAZ: „Atemschutzmasken in vielen Apotheken ausverkauft“,
+    https://j.mp/32M4pwK
 
-7.  https://j.mp/2GggR0h
+7.  MediaTUM: „Rückatmung von Kohlendioxid bei Verwendung von
+    Operationsmasken als hygienischer Mundschutz an medizinischem
+    Fachpersonal“, https://j.mp/2GggR0h
